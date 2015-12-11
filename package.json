@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "ionic-framework": "2.0.0-alpha.38",
-    "moment": "^2.10.6"
+    "moment": "^2.10.6",
+    "parse": "^1.6.9"
   },
   "devDependencies": {
     "autoprefixer-loader": "^3.1.0",
